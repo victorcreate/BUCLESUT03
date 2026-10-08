@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class ejercicio2 {
     public static void main(String[] args) {
+
+        int numArticulos;
         
         /*
         El pedido tendra 3 articulos:
@@ -18,6 +20,4 @@ public class ejercicio2 {
 
         for (int i = 0; i < numArticulos; i++) {}
         }
-    }
-    
-}
+    } 
